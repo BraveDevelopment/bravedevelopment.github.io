@@ -32,8 +32,8 @@
 /*---    MAIN CONTAINER    -------------------------------------------------------------*/
 
 .container {
-	width: 1010px;
-	height: 710px;
+	width: 957px;
+	height: 720px;
 	/* background-color: var(--main-background-color); */
 	background-color: var(--main-background-color);
 	position: absolute;
@@ -49,10 +49,10 @@
 
 .rahmen {
 	position: absolute;
-	top: -49px;
-	left: -41px;
-	height: 799px;
-	width: 1087px;
+	top: -32px;
+	left: -33px;
+	height: 782px;
+	width: 1021px;
 	z-index: -1;
 }
 
@@ -262,7 +262,7 @@
 
 .button2 {
 	padding: 14 25 14 25;
-	width: 200px;
+	width: 230px;
 	height: auto;
 	border: none;
 	outline: none;
@@ -303,7 +303,21 @@
 	flex-direction: column;
 }
 
-.element2 {
+.element2_1 {
+	width: 570px;
+	height: auto;
+	padding: 26 38 28 38;
+	border: 1px solid var(--main-border-color);
+	border-radius: 16px;
+}
+.element2_2 {
+	width: 570px;
+	height: auto;
+	padding: 26 38 28 38;
+	border: 1px solid var(--main-border-color);
+	border-radius: 16px;
+}
+.element2_3 {
 	width: 570px;
 	height: auto;
 	padding: 26 38 28 38;
