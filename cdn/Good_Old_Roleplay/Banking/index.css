@@ -1,3 +1,39 @@
-#sheesh {
-	color: red;
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap");
+
+/*	DESIGNED BY BRAVE#3907 */
+/*	You are not allowed to copy, change or sell this file in any way! */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+:root {
+	--main-font-color: #14142b;
+	--main-active-font-color: #fcfcfc;
+	--main-button-color: #eff0f6;
+	--main-border-color: #d9dbe9;
+	--main-active-button-color: #610bef;
+	--main-background-color: #ffffff;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--main-font-color: #fff;
+		--main-active-font-color: #fcfcfc;
+		--main-button-color: #12161a;
+		--main-border-color: #434547;
+		--main-active-button-color: #610bef;
+		--main-background-color: #0C0F12;
+	}
+}
+
+/*---    GENERAL CONTAINER    ----------------------------------------------------------*/
+
+.general {
+	height: auto;
+	width: auto;
+	background-color: var(--main-background-color);
+	padding: 0px 80px 64px 80px;
 }
