@@ -1,0 +1,10 @@
+{
+	"recommendations": [
+		"coenraads.bracket-pair-colorizer",
+		"zignd.html-css-class-completion",
+		"esbenp.prettier-vscode",
+		"akamud.vscode-theme-onedark",
+		"dsznajder.es7-react-js-snippets",
+		"vscode-icons-team.vscode-icons"
+	]
+}
