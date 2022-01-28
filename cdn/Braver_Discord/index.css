@@ -51,6 +51,12 @@
     border-radius: var(--border-radius-1);
 }
 
+/* In-Chat chat bar design tweaks */
+
+.scrollableContainer-15eg7h {
+  border-radius: var(--border-radius-2);
+}
+
 /* Bigger seperation in activity feed */
 
 .theme-dark .separator-2OaeRP {
