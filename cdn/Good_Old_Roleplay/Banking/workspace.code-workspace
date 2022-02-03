@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\FiveM\\esx_advancedbanking-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "esx_advancedbanking-master"
+	},
+	"extensions": {
+		"recommendations": []
+	}
+}
